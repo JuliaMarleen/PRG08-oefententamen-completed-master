@@ -34,9 +34,9 @@ Het koninkrijk Gazorpazorp wordt aangevallen door een eindeloze horde zombies. H
 **Observer**
 - waar, waarom
 
-Button: observer array in button
-Button: handleClick = notify
-Button: notifyUpdate = notify
+- Button: observer array in button
+- Button: handleClick = notify
+- Button: notifyUpdate = notify
 
 **Coins**
 - gelukt / niet gelukt
